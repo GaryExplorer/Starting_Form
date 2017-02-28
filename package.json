@@ -1,7 +1,7 @@
 {
-  "name": "react-todo",
+  "name": "starting-form",
   "version": "1.0.0",
-  "description": "",
+  "description": "starting form developed by gary",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
