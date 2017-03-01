@@ -22,8 +22,16 @@ module.exports = {
             test: /\.jsx?$/,
             exclude: /node_modules/,
             loaders: ['react-hot-loader/webpack', 'babel?presets[]=react,presets[]=es2015']
+        },
+        {
+            test:/\.js$/,
+            exclude: /node_modules/,
+            loader: 'eslint-loader'
         }
         ]
+    },
+    eslint: {
+        configFile: './.eslintrc.js'
     },
     plugins: [
         new webpack.HotModuleReplacementPlugin(),

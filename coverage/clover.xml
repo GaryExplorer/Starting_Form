@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1488317721395" clover="3.2.0">
+  <project timestamp="1488317721395" name="All files">
+    <metrics statements="10" coveredstatements="7" conditionals="8" coveredconditionals="5" methods="3" coveredmethods="1" elements="21" coveredelements="13" complexity="0" loc="10" ncloc="10" packages="3" files="3" classes="3">
+      <package name="src.Data">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="state.js" path="/Users/xianheyu/GitHub/Starting_Form/src/Data/state.js">
+          <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="2" count="1" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.Validator">
+        <metrics statements="5" coveredstatements="3" conditionals="8" coveredconditionals="5" methods="2" coveredmethods="1"/>
+        <file name="handleValidator.js" path="/Users/xianheyu/GitHub/Starting_Form/src/Validator/handleValidator.js">
+          <metrics statements="5" coveredstatements="3" conditionals="8" coveredconditionals="5" methods="2" coveredmethods="1"/>
+          <line num="4" count="2" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="test">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="sum.js" path="/Users/xianheyu/GitHub/Starting_Form/test/sum.js">
+          <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="5" count="1" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>

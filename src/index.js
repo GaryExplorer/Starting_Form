@@ -5,4 +5,6 @@ import Main from './Container/Main';
 
 render(<Main />, document.getElementById('app'));
 
+console.log('afdasdf');
+
 
